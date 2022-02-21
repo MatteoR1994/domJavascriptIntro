@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
+
+/*
+
+font-family: 'Quicksand', sans-serif;
+
+*/
+
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+table {
+    width: 40%;
+    border-collapse: collapse;
+}
+th {
+    background-color: #323F4F;
+    font-weight: 700;
+    color: white;
+}
+th, td {
+    margin: 0;
+    padding: 20px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
